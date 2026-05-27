@@ -20,7 +20,7 @@ between tracks while ensuring correctness across edge cases.
 
 ## Technical Stack
 
-- Java
+- Python
 - Object-Oriented Programming
 - Linear Data Structures
 - State Management
@@ -33,7 +33,7 @@ TrackFlow emphasizes:
 - Clear class responsibilities
 - Predictable and maintainable state transitions
 - Robust traversal logic in mutable data structures
-- Readable, well-structured Java code
+- Readable, well-structured Python code
 
 ---
 
