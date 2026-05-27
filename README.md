@@ -1,6 +1,6 @@
 # TrackFlow
 
-TrackFlow is a Java-based playlist management system focused on
+TrackFlow is a Python-based playlist management system focused on
 object-oriented design, traversal logic, and precise state management.
 
 The project models a dynamic playlist with support for controlled navigation
